@@ -30,11 +30,13 @@ This will execute the genetic algorithm and output the best route found along wi
 The program outputs:
 - **Final Best Tour Plot**: A graphical representation of the best route found by the genetic algorithm.
   
-![download](https://github.com/Merfa2001/TSP-with-GA/assets/146805956/9ffde772-9911-4150-a073-cc482fb89e8a)
+![download](https://github.com/Merfa2001/TSP-with-GA/assets/146805956/651617a6-11e3-4116-9e4f-bdb95a50956c)
+
 
 - **Cost Function Improvement Plot**: A plot showing the decrease in total travel distance (cost) over generations, which demonstrates the efficiency of the genetic algorithm in optimizing the route.
   
-  ![download (1)](https://github.com/Merfa2001/TSP-with-GA/assets/146805956/f5c3a6f8-d34e-40b6-b5fe-7a721863ebd2)
+  ![download (1)](https://github.com/Merfa2001/TSP-with-GA/assets/146805956/54bb4856-3178-4221-acf9-08dd56b35bc8)
+
 
 
 #### Results
