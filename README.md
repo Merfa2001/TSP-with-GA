@@ -48,3 +48,11 @@ The actual output will vary depending on the specific random initialization and 
 
 #### Contributing
 Feel free to fork this repository and submit pull requests. You can also open an issue if you find any bugs or have suggestions for additional features.
+
+## Credits
+
+This script is inspired by various resources on the Traveling Salesman Problem and Genetic Algorithms.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
